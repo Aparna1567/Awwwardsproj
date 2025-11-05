@@ -22,11 +22,11 @@
 }
 @theme{
     /* fonts */
-  --font-circular:circular-web;
-  --font-general:general;
-  --font-rmedium:robert-medium;
-  --font-rregular:robert-regular;
-  --font-zentry:zentry-general;
+  --font-circular:"circular-web";
+  --font-general:"general";
+  --font-rmedium:"robert-medium";
+  --font-rregular:"robert-regular";
+  --font-zentry:"zentry-general";
   /* colors */
   
   --color-blue-50:#DFDFF0;
